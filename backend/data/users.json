@@ -1,0 +1,76 @@
+[
+  {
+    "userID": 1,
+    "name": "Johan Lieberth",
+    "email": "johan19@gmail.com",
+    "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+    "permission": "user",
+    "car": { "0": 1, "2": 4 }
+  },
+  {
+    "userID": 2,
+    "name": "Arturia Pendragon",
+    "email": "arturia22@gmail.com",
+    "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+    "permission": "user",
+    "car": []
+  },
+  {
+    "userID": 3,
+    "name": "Zeke Jeaguer",
+    "email": "zeke20199@gmail.com",
+    "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+    "permission": "user",
+    "car": [1, 2]
+  },
+  {
+    "userID": 4,
+    "name": "Urabe Mikoto",
+    "email": "urabemikoto123@gmail.com",
+    "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+    "permission": "user",
+    "car": []
+  },
+  {
+    "userID": 5,
+    "name": "Mauricio",
+    "email": "urabemikoto123@gmail.com",
+    "password": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
+    "permission": "user",
+    "car": [14]
+  },
+  {
+    "userID": 6,
+    "name": "Olvin",
+    "email": "omramos@unah.hn",
+    "password": "eefd3df18597715fb0dffd9a8b8a3ebcbaaa3849",
+    "permission": "user",
+    "car": []
+  },
+  {
+    "userID": 7,
+    "name": "Mauricio",
+    "email": "mramos@unah.hn",
+    "password": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
+    "permission": "administrator",
+    "car": [17],
+    "products": [{ "id": 31, "name": "Snes", "brand": "Nintendo" }]
+  },
+  {
+    "userID": 8,
+    "name": "Alan",
+    "email": "alan@unah.hn",
+    "password": "f10e2821bbbea527ea02200352313bc059445190",
+    "permission": "user",
+    "car": []
+  },
+  {
+    "userID": 9,
+    "name": "Sulma",
+    "email": "sulma@yahoo.com",
+    "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
+    "permission": "administrator",
+    "car": [],
+    "products": []
+  }
+]

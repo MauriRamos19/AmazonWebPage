@@ -1,0 +1,272 @@
+[
+  {
+    "productID": 1,
+    "categoryID": 1,
+    "name": "The Last of Us Part II - PlayStation 4",
+    "brand": "PlayStation",
+    "image": "img/products/videogames/71p8G+YeA6L._AC_UY218_.jpg",
+    "price": "$59.99",
+    "calification": 4
+  },
+  {
+    "productID": 2,
+    "categoryID": 1,
+    "name": "Minecraft - Nintendo Switch ",
+    "brand": "Microsoft",
+    "image": "img/products/videogames/71dIHv1zh7L._AC_UY218_.jpg",
+    "price": "$43.26",
+    "calification": 5
+  },
+  {
+    "productID": 3,
+    "categoryID": 1,
+    "name": "PlayStation 4 Slim 1TB Console",
+    "brand": "PlayStation",
+    "image": "img/products/videogames/\u00edndice.webp",
+    "price": "$369.01",
+    "calification": 4
+  },
+  {
+    "productID": 4,
+    "categoryID": 1,
+    "name": "Super Smash Bros - Ultimate (Nintendo Switch)",
+    "brand": "Nintendo",
+    "image": "img/products/videogames/81aJ-R4E6gL._AC_UY218_.jpg",
+    "price": "$62.47",
+    "calification": 5
+  },
+  {
+    "productID": 5,
+    "categoryID": 1,
+    "name": "Nintendo Switch 32GB Console Video Games",
+    "brand": "Nintendo",
+    "image": "img/products/videogames/417kf2GJBuL._AC_US218_.jpg",
+    "price": "$435.00",
+    "calification": 5
+  },
+  {
+    "productID": 6,
+    "categoryID": 2,
+    "name": "AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler",
+    "brand": "AMD",
+    "image": "img/products/computers/41m+krxXiBL._AC_US160_.jpg",
+    "price": "$159.98",
+    "calification": 4
+  },
+  {
+    "productID": 7,
+    "categoryID": 2,
+    "name": "HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor with Built-in Speakers and VESA Mounting, Rotating Portrait & Landscape, Tilt, and HDMI & VGA Ports (1KL30AA) - Black",
+    "brand": "HP",
+    "image": "img/products/computers/71trhuzbhML._AC_UY218_.jpg",
+    "price": "$59.99",
+    "calification": 5
+  },
+  {
+    "productID": 8,
+    "categoryID": 2,
+    "name": "SanDisk 128GB Extreme microSDXC UHS-I Memory Card with Adapter - C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-128G-GN6MA ",
+    "brand": "SandDisk",
+    "image": "img/products/computers/61Ck0CO5+HL._AC_UY218_.jpg",
+    "price": "$59.99",
+    "calification": 4
+  },
+  {
+    "productID": 9,
+    "categoryID": 2,
+    "name": "Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0 GHz Turbo unlocked LGA1151 300 Series 95W",
+    "brand": "Intel",
+    "image": "img/products/computers/71RsweT83eL._AC_UL135_SR135,135_.jpg",
+    "price": "$449.99",
+    "calification": 5
+  },
+  {
+    "productID": 10,
+    "categoryID": 2,
+    "name": "ASUS VivoBook 15 Thin and Light Laptop, 15.6\u201d FHD Display, Intel i3-1005G1 CPU, 8GB RAM, 128GB SSD",
+    "brand": "ASUS",
+    "image": "img/products/computers/81fstJkUlaL._AC_UY218_.jpg",
+    "price": "$394.00",
+    "calification": 5
+  },
+  {
+    "productID": 11,
+    "categoryID": 3,
+    "name": "TOZO T10 Bluetooth 5.0 Wireless Earbuds with Wireless Charging Case IPX8 Waterproof TWS Stereo Headphones in Ear Built in Mic Headset Premium Sound with Deep Bass for Sport Black",
+    "brand": "TOZO",
+    "image": "img/products/electronics/71isyD36rbL._AC_UY218_.jpg",
+    "price": "$36.99",
+    "calification": 4
+  },
+  {
+    "productID": 12,
+    "categoryID": 3,
+    "name": "Shure SRH940 Professional Reference Headphones (Silver)",
+    "brand": "Shure",
+    "image": "img/products/electronics/81Q5ud1jT5L._AC_UY218_.jpg",
+    "price": "$249.99",
+    "calification": 3
+  },
+  {
+    "productID": 13,
+    "categoryID": 3,
+    "name": "TCL 32S325 32 Inch 720p Roku Smart LED TV (2019)",
+    "brand": "TCL",
+    "image": "img/products/electronics/71YZlXXFktL._AC_UY218_.jpg",
+    "price": "$127.99",
+    "calification": 4
+  },
+  {
+    "productID": 14,
+    "categoryID": 3,
+    "name": "Casio FX115ESPLUS Scientific Calculator",
+    "brand": "Nintedo",
+    "image": "img/products/electronics/61sUgi4lgpL._AC_UY218_.jpg",
+    "price": "$16.70",
+    "calification": 4
+  },
+  {
+    "productID": 15,
+    "categoryID": 3,
+    "name": "Garmin 010-01689-00 Forerunner 35; Easy-to-Use GPS Running Watch, Black",
+    "brand": "Garmin",
+    "image": "img/products/electronics/71wamdtiUHL._AC_UY218_.jpg",
+    "price": "$99.00",
+    "calification": 5
+  },
+  {
+    "productID": 16,
+    "categoryID": 4,
+    "name": "Nike Men's Gymnastics Shoes",
+    "brand": "Nike",
+    "image": "img/products/moda para hombres/81uiWMk9dnL._AC_UL320_.jpg",
+    "price": "$96.53",
+    "calification": 4
+  },
+  {
+    "productID": 17,
+    "categoryID": 4,
+    "name": "Lucky Brand Men's Venice Burnout V Neck Tee",
+    "brand": "Microsoft",
+    "image": "img/products/moda para hombres/A1mEmA7vWVL._AC_UL320_.jpg",
+    "price": "$19.91",
+    "calification": 5
+  },
+  {
+    "productID": 18,
+    "categoryID": 4,
+    "name": "Van Heusen Men's Shirt Regular Fit Poplin Solid",
+    "brand": "Van Heusen",
+    "image": "img/products/moda para hombres/61pjj7DGsTL._AC_UL320_.jpg",
+    "price": "15.99",
+    "calification": 4
+  },
+  {
+    "productID": 19,
+    "categoryID": 4,
+    "name": "BITLIVE Men's Cotton Linen Plus Size Stretchy Waist Casual Ankle Length Pants",
+    "brand": "BITLIVE",
+    "image": "img/products/moda para hombres/51Mkq70jqcL._AC_UL320_.jpg",
+    "price": "$26.99",
+    "calification": 5
+  },
+  {
+    "productID": 20,
+    "categoryID": 4,
+    "name": "SaphiRose Hooded Rain Poncho Waterproof Raincoat Jacket for Men Women Adults",
+    "brand": "SaphiRose",
+    "image": "img/products/moda para hombres/51bylErfJQL._AC_UL320_.jpg",
+    "price": "$19.99",
+    "calification": 5
+  },
+  {
+    "productID": 21,
+    "categoryID": 5,
+    "name": "Teva Women's Original Universal Sandal ",
+    "brand": "Teva",
+    "image": "img/products/moda para mujeres/713wPY+4+uL._AC_UL320_.jpg",
+    "price": "$41.67",
+    "calification": 4
+  },
+  {
+    "productID": 22,
+    "categoryID": 5,
+    "name": "Gentle Souls by Kenneth Cole Women's Nyssa Ruffle Strap Wedge Platform Pump",
+    "brand": "Gentle Souls",
+    "image": "img/products/moda para mujeres/61uUg-v86SL._AC_UL320_.jpg",
+    "price": "$82.81",
+    "calification": 5
+  },
+  {
+    "productID": 23,
+    "categoryID": 5,
+    "name": "Simple Flavor Women's Floral Vintage Dress Elegant Midi Evening Dress",
+    "brand": "Simple Flavor",
+    "image": "img/products/moda para mujeres/71tOqSpSShL._AC_UL320_.jpg",
+    "price": "$23.00",
+    "calification": 4
+  },
+  {
+    "productID": 24,
+    "categoryID": 5,
+    "name": "QIXING Women's Summer Casual Loose Mini Dress V-Neck Bell Short Sleeve Shift Dress",
+    "brand": "QIXING",
+    "image": "img/products/moda para mujeres/61CSrx8j4iL._AC_UL320_.jpg",
+    "price": "$28.99",
+    "calification": 5
+  },
+  {
+    "productID": 25,
+    "categoryID": 5,
+    "name": "AOWEER Womens High Waisted Cargo Pants Pockets Casual Loose Combat Twill Trousers Girls",
+    "brand": "AOWEER",
+    "image": "img/products/moda para mujeres/51opLA92djL._AC_UL320_.jpg",
+    "price": "$29.99",
+    "calification": 5
+  },
+  {
+    "productID": 26,
+    "categoryID": 6,
+    "name": "Disposable Gloves, Squish Clear Vinyl Gloves Latex Free Powder-Free Glove PVC Cleaning Health Gloves for Kitchen Cooking Cleaning Safety Food Handling, 100PCS/Box, X-Large\uff0cShip from USA",
+    "brand": "Squish",
+    "image": "img/products/health and household/515I19pV1JL._AC_UL320_.jpg",
+    "price": "$20.99",
+    "calification": 3
+  },
+  {
+    "productID": 27,
+    "categoryID": 6,
+    "name": "Listerine Total Care Anticavity Mouthwash, 6 Benefit Fluoride Mouthwash for Bad Breath and Enamel Strength, Fresh Mint Flavor, 1 L ",
+    "brand": "Listerine",
+    "image": "img/products/health and household/81vNiROdiIL._AC_UL320_.jpg",
+    "price": "$6.57",
+    "calification": 4
+  },
+  {
+    "productID": 28,
+    "categoryID": 6,
+    "name": "Philips Norelco MG7750/49 Multigroom Series 7000, Men's Grooming Kit with Trimmer for Beard, Head, Body, and Face - No Blade Oil Needed",
+    "brand": "Philips Norelco",
+    "image": "img/products/health and household/71YCllvavVL._AC_UL320_.jpg",
+    "price": "$54.91",
+    "calification": 4
+  },
+  {
+    "productID": 29,
+    "categoryID": 6,
+    "name": "MainBasics Bath Shower Loofah Sponge Pouf Body Scrubber Exfoliator",
+    "brand": "MainBasics",
+    "image": "img/products/health and household/9140SX9HAGL._AC_UL320_.jpg",
+    "price": "$6.99",
+    "calification": 4
+  },
+  {
+    "productID": 30,
+    "categoryID": 6,
+    "name": "Vitamin C by Nature's Bounty, Immune Support, Vitamin C 500mg, 250 Tablets",
+    "brand": "Nature's Bounty",
+    "image": "img/products/health and household/71tecTdG6BL._AC_UL320_.jpg",
+    "price": "$8.26",
+    "calification": 4
+  }
+]

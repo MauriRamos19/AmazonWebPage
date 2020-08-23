@@ -1,0 +1,182 @@
+.navbar {
+    background-color: #131921 !important;
+   
+    
+}
+
+nav i{
+    color: white;
+    font-size: xx-large;
+}
+
+nav a{
+    margin: auto;
+    color: white;
+    border: 10px;
+    padding: 10px;
+}
+
+nav a:hover{
+    color: white;
+    border-radius: 10px solid white;
+    text-decoration: none;
+}
+
+
+form{
+    margin: auto;
+}
+
+nav .btn{
+    background-color: #FEBD69;
+    
+}
+
+nav .btn:hover{
+    background-color: #F3A847;
+    
+}
+nav .btn i{
+    color: black;
+    font-size: large;
+}
+
+
+
+
+.modal-header{
+    background-color: #FEBD69;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-img{
+    width: min-content;
+}
+
+.card-img:hover{
+    cursor: pointer;
+    
+}
+
+
+.card h5:hover{
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    background-color: #EAEDED;
+    
+
+}
+
+.card i{
+    color: #D89F12;
+    
+}
+
+body{
+    background-color: #EAEDED;
+}
+
+
+#container-products{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.25);
+    margin-top: 300px;
+    margin-bottom: 100px;
+    width: 100vw;
+}
+
+.carousel{
+    position: absolute;
+}
+
+.modal i{
+    color: #D89F12;
+}
+
+.modal .btn-primary{
+    background-color: #F2CE73;
+    border-color: #F2CE73;
+    box-shadow: none;
+    color: black;
+}
+
+.modal .btn-primary:hover{
+    background-color: #EEBC3D;
+}
+
+.modal .btn-primary:focus{
+    background-color: #EEBC3D;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle{
+    background-color: #EEBC3D;
+    color: black; 
+    border-color:#F2CE73;
+
+
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus{
+    box-shadow: 0 0 0 .2rem #EEBC3D !important;
+}
+
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: #131921 !important;
+    color: grey;
+
+}
+
+.input-group-text{
+    margin-top: 1em;
+    margin-bottom: initial !important;
+}
+
+#list-departments{
+    margin-top: 1em;
+}
+
+
+@media (min-width: 300px) and (max-width: 767.98px) { 
+
+    .container{
+        margin-top: 0 !important;
+    }
+
+    .mr-auto{
+        margin: inherit !important;
+    }
+
+    form{
+        margin: auto;
+        padding-top: 2em;
+        
+    }
+
+    nav a{
+        margin: auto;
+        color: white;
+        display: flex;
+        border: 10px;
+        padding: 30px;
+    }
+
+    footer{
+        text-align: center;
+    
+    }
+
+    .modal{
+        width: 100vw;
+    }
+}
+
