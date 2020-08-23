@@ -5,7 +5,7 @@
     "email": "johan19@gmail.com",
     "password": "f1b699cc9af3eeb98e5de244ca7802ae38e77bae",
     "permission": "user",
-    "car": { "0": 1, "2": 4 }
+    "car": [1,2]
   },
   {
     "userID": 2,
