@@ -54,7 +54,7 @@
     "password": "bcdcb29ed2aab16d48c11485264df665e906bdd9",
     "permission": "administrator",
     "car": [17],
-    "products": [{ "id": 31, "name": "Snes", "brand": "Nintendo" }]
+    "products": []
   },
   {
     "userID": 8,
